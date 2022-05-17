@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"User As an admin,I want to see list of detail product","GET - As admin i have be able to get detail product","SUCCESS","2022-05-17T20:33:27.4273184+08:00[Asia/Makassar]","0.0","3.96"
+"as user i want to see all categories with invalid url","GET-as user i want to see all categories with invalid url","SUCCESS","2022-05-17T20:33:31.4085772+08:00[Asia/Makassar]","0.0","0.12"
+"as a user I want login with valid email and valid password","POST-as a user I want login with valid email and valid password","SUCCESS","2022-05-17T20:33:31.5398429+08:00[Asia/Makassar]","0.0","0.17"
+"as a user i want to register without email and password","POST-as a user i want to register without email and password","SUCCESS","2022-05-17T20:33:31.7140008+08:00[Asia/Makassar]","0.0","0.02"
+"As user i want to buy some product","POST-As user i want to buy some product","SUCCESS","2022-05-17T20:33:31.74503+08:00[Asia/Makassar]","0.0","0.22"

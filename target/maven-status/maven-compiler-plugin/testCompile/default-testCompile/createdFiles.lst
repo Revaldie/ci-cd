@@ -1,0 +1,11 @@
+starter\login\Post.class
+starter\categories\Get.class
+starter\stepdefinitions\CategoriesSteps.class
+starter\stepdefinitions\Registersteps.class
+starter\stepdefinitions\Loginsteps.class
+starter\product\GET.class
+starter\CucumberTestSuite.class
+starter\stepdefinitions\ProductSteps.class
+starter\transaction\Post.class
+starter\register\Post.class
+starter\stepdefinitions\TransactionSteps.class

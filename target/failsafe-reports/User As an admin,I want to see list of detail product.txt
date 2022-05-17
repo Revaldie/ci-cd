@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: User As an admin,I want to see list of detail product
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.141 s - in User As an admin,I want to see list of detail product
